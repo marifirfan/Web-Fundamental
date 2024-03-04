@@ -1,0 +1,6 @@
+universal selector
+type selector
+class selector
+id selector
+child selector
+decendant selector
