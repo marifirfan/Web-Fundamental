@@ -1,0 +1,30 @@
+/* Universal Selector */
+* {
+    font-family: Arial;
+}
+
+/* type selector */
+h1 {
+    color: brown;
+}
+
+/* class selector */
+p.paragraf1 {
+    color: cornflowerblue;
+}
+
+/* id selector */
+#Bold {
+    color: black;
+}
+
+/* child selector */
+
+p>i {
+    color: blue;
+}
+
+/* dacendant selector */
+i b {
+    color: chocolate;
+}
