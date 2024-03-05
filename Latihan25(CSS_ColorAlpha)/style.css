@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, #6d6d6d, #302121);
+}
+
+.kelas1 {
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}

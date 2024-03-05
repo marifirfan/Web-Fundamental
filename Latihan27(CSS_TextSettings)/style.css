@@ -1,0 +1,37 @@
+body {
+    font-family: tahoma;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+#Tittle {
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 1px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 20px #000;
+}
+
+p a {
+    color: blue;
+    text-decoration: none;
+    font-style: italic;
+}
+
+p a:hover {
+    color: red;
+}
+
+p a:visited {
+    color: black;
+}
+
+#descripsi1 {
+    text-align: justify;
+}

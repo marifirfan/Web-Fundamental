@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(74, 100, 193);
+}
+
+.container {
+    font-family: tahoma;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+
+
+    p {
+        color: rgb(255, 255, 255);
+    }
+
+    h3 {
+        background-color: bisque;
+        padding: 20px;
+    }
+
+}
+
+h3>span {
+    color: rgb(255, 255, 255);
+}
+
+#Tittle {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(1, 48, 136);
+    color: azure;
+}

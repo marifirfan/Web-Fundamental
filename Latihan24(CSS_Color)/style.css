@@ -1,0 +1,29 @@
+body {
+    font-family: tahoma;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#Tittle1 {
+    text-align: center;
+    color: #0a0447;
+    background-color: beige;
+    border: 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.Description {
+    text-align: justify;
+    border: 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #0a0447;
+    color: aliceblue;
+
+}

@@ -1,0 +1,21 @@
+* {
+    font-family: tahoma;
+}
+
+.container {
+    background-color: aquamarine;
+    height: 130px;
+    width: 210px;
+    border: 2px solid;
+}
+
+.content {
+    font-size: 32px;
+    text-align: center;
+    border: 10px solid blue;
+    height: 50px;
+    width: 130px;
+    background-color: chocolate;
+    margin: 20px;
+    padding: 10px;
+}

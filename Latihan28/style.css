@@ -1,0 +1,102 @@
+* {
+    font-family: tahoma;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#onepercent {
+    margin-bottom: 10px;
+}
+
+.container {
+    background-color: #333;
+    padding: 10px 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.brand {
+    text-align: left;
+}
+
+h4 {
+    color: white;
+    margin: 0;
+    margin-top: 10px;
+    font-size: 24px;
+
+}
+
+.nav-links {
+    text-align: right;
+}
+
+p {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    /* Adjust the font size */
+}
+
+a:hover {
+    color: #ffd700;
+    /* Change the color on hover */
+}
+
+.container2 {
+    padding: 20px;
+}
+
+.container2 h2 {
+    text-align: center;
+}
+
+.emailbox {
+    margin-left: 500px;
+
+    #email {
+        width: 375px;
+        margin-top: 10px;
+    }
+}
+
+.Message {
+    margin-left: 500px;
+    margin-top: 20px;
+
+    #textarea {
+        margin-top: 10px;
+        resize: none;
+    }
+}
+
+#input1 {
+    margin-top: 10px;
+    background-color: rgb(72, 72, 253);
+    padding: 10px;
+    text-align: center;
+    color: azure;
+    border: 2px solid #4a4aff;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+
+
+}
+
+#input1:hover {
+    background-color: #1d1dd2;
+    border: 2px solid #fff;
+    /* Change the border color on hover */
+}
