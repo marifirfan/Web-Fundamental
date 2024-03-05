@@ -1,0 +1,10 @@
+* {
+    font-family: tahoma;
+}
+
+.border1 {
+    border: 2px;
+    border-style: dashed;
+    width: 150px;
+    text-align: center;
+}
