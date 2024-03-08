@@ -1,0 +1,23 @@
+.container {
+    background-color: aqua;
+}
+
+.container {
+    background-color: aqua;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flexitem {
+    background-color: brown;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+
+}
+
+.flexitem p {
+    text-align: center;
+}

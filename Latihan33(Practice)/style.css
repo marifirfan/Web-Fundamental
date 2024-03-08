@@ -1,0 +1,66 @@
+* {
+    font-family: tahoma;
+}
+
+.container-1 {
+    background-color: rgb(83, 83, 83);
+
+}
+
+.navbar a {
+    color: beige;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.navbar {
+    display: flex;
+    font-family: tahoma;
+    justify-content: center;
+
+}
+
+.home {
+    margin: 10px;
+}
+
+.contact {
+    margin: 10px;
+}
+
+.signin {
+    margin: 10px;
+}
+
+#credit {
+    font-size: 12px;
+}
+
+.deskripsi {
+    text-align: justify;
+}
+
+.groupbox {
+    display: flex;
+}
+
+
+.box {
+    background-color: rgb(83, 83, 83);
+    text-align: center;
+    color: beige;
+    height: 100px;
+    min-height: 100px;
+    width: 200px;
+    min-width: 200px;
+    margin: 10px;
+    justify-content: center;
+}
+.box p{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.groupbox {
+    flex-wrap: wrap;
+}
